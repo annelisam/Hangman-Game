@@ -1,7 +1,7 @@
 # Hangman-Game
 HW-3 JavaScript Assignment
 
-# JavaScript Assignment
+## JavaScript Assignment
 
 ### Overview
 
