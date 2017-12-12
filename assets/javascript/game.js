@@ -112,19 +112,19 @@ function print (){
     
     // Attributes images to each string. 
     if (secretWord === "britney spears") {
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/britney.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/britney.jpg\">";
     } else if (secretWord === "christina aguilera"){
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/xtina.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/xtina.jpg\">";
     } else if (secretWord === "spice girls"){
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/spice-girls.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/spice-girls.jpg\">";
     } else if (secretWord === "destinys child"){
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/destinys-child.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/destinys-child.jpg\">";
     } else if (secretWord === "beyonce"){
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/beyonce.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/beyonce.jpg\">";
     } else if (secretWord === "justin timberlake"){
         var photo = "<img id=\"hintPic\" src=\"http://via.placeholder.com/500x500\">";
     } else if (secretWord === "backstreet boys"){
-        var photo = "<img id=\"hintPic\" src=\"~/assets/images/backstreet.jpg\">";
+        var photo = "<img id=\"hintPic\" src=\"../assets/images/backstreet.jpg\">";
     } else if (secretWord === "nsync"){
         var photo = "<img id=\"hintPic\" src=\"http://via.placeholder.com/500x50\">";
 }

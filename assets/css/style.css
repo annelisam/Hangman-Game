@@ -4,21 +4,17 @@ body {
 
 p, h2 {
     font-family: sans-serif, 'Helvetica Neue';
-	font-size: 150%;
-	margin-top: 20px;
+	margin-top: 10px;
 	color: #000;
 }
 
 h1 {
 	font-family: sans-serif, 'Helvetica Neue';
-	font-size: 125%;
-	margin-top: 20px;
 	color: #777;
 }
 
 h2 {
 	text-align: center;
-	font-size: 200%;
 	color: #000;
 	margin-bottom: 10px;
 }
@@ -29,26 +25,6 @@ h2 {
 }
 
 .current-word {
-	text-decoration: underline;
-	font-size: 200%
-}
-
-.main-section {
-	clear: both;
-	float:left;
-	width: 75%;
-	height: 400px;
-	margin: 0 12.5% 50px 12.5%;
-}
-
-#imageDiv {
-	float: left;
-	width: 49%;
-	height: 100%;
-}
-
-.game-area {
-	float: left;
-	width: 50%;
-	text-align: center;
+	letter-spacing: 20px;
+	color: red;
 }
